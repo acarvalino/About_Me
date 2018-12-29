@@ -1,0 +1,22 @@
+/** {
+	margin: 30px;
+	padding: 10px;
+	border: 1px;
+	font-size: 12;
+	font: times-new-roman;
+
+}*/
+body {
+	border
+}
+p::first-letter {
+	text-transform: uppercase;
+	color: red;
+	font-size: 30px;
+	font: century-gothic;
+}
+div {
+  background-color: azure;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
