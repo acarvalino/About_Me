@@ -6,17 +6,29 @@
 	font: times-new-roman;
 
 }*/
+* {
+	color: white;
+}
 body {
-	border
+  background: url(IMG_0444.jpg) no-repeat;
+  background-size: cover;
+  padding: 30px;
+}
+main {
+	width: 50%;
+	margin-right: auto;
+	margin-left: auto;
+}
+h1 {
+	text-align: center;
+	color: red;
+}
+a {
+	color: rgb(260,10,30);
 }
 p::first-letter {
 	text-transform: uppercase;
 	color: red;
 	font-size: 30px;
 	font: century-gothic;
-}
-div {
-  background-color: azure;
-  border: 1px solid aquamarine;
-  padding: 30px;
 }
